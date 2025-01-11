@@ -148,12 +148,17 @@ nav{
     
 }
 
-table{
+.opinion-container{
     background-color: #FFFFFF;
     border-radius: 10px;
     padding: 30px;
-    /* border-collapse: collapse; */
+    border-collapse: collapse;
     margin-bottom: 50px;
+
+}
+
+table{
+    border-collapse: collapse;
 }
 
 
@@ -228,6 +233,7 @@ footer ul{
 
 .news-des{
     margin-bottom: 50px;
+    color: grey;
 }
 
 
@@ -275,6 +281,7 @@ footer ul{
     margin: 30px 55px;
     border-radius: 10px;
     padding: 20px;
+    font-family: open sans;
     
 }
 
@@ -288,9 +295,10 @@ footer ul{
 
 .email{
     border: none;
-    padding: 10px 120px;
+    padding: 10px 110px;
     border-radius: 10px 0 0 10px;
     text-align: left;
+
 }
 
 
