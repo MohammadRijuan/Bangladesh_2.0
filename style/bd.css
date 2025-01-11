@@ -144,6 +144,7 @@ nav{
 /* opinion */
 .opinion{
     margin: 30px 55px;
+    font-family: open sans;
     
 }
 
@@ -206,6 +207,7 @@ footer ul{
 
 .news{
     margin: 30px 55px;
+    font-family: open sans;
 }
 
 .news-container{
@@ -233,6 +235,7 @@ footer ul{
 .donate{
     text-align: center;
     justify-content: center;
+    font-family: open sans;
 }
 
 
